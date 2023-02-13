@@ -4,7 +4,7 @@ function play() {
     const audio1 = new Audio('s2.mp3');
     audio1.play();
 }
-setInterval(play, 100000);
+setInterval(play, 1000);
 
 
 const panels = document.querySelectorAll('.panel');
