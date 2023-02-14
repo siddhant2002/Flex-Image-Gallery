@@ -1,7 +1,4 @@
-const audio = new Audio('s1.mp3');
-audio.play();
-const audio1 = new Audio('s2.mp3');
-audio1.play();
+
 
 const panels = document.querySelectorAll('.panel');
 function toggleOpen() {
