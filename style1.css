@@ -11,6 +11,14 @@ body
     margin: 0px;
     padding: 0px;
 }
+#foobar
+{
+    display: none
+}
+#foobar1
+{
+    display: none
+}
 *,
 *:before,
 *:after
