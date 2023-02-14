@@ -1,4 +1,3 @@
-const name = prompt("Enter your name");
 const audio = new Audio('s1.mp3');
 audio.play();
 const audio1 = new Audio('s2.mp3');
